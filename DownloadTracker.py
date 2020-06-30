@@ -56,7 +56,7 @@ def delRepet():
 #主函数
 import os
 def main():
-    print("     Code by 悟空青年\n\n使用开源订阅源 可以免费使用!\n正在检测文件状态......\n")
+    print("使用开源订阅源 可以免费使用!\n正在检测文件状态......\n")
     # isExists(trackeroutPath)
     print("开始下载数据......\n")
     #tracker下载到变量
